@@ -1,666 +1,380 @@
-What is the output for the following code, if the value of a is 20  and b is 35?
-Integer a, b
-Input a, b
-a = b
-b = a
-Print(a,b)
+India is a country of villages. Rural population still dominates the urban population as far as the number is considered. This is despite the fact that there is rampant migration of rural families to urban centres. Generally, the gains of being a unit of the urban population are less than the disadvantages and risks that are in-built in the urban life. Crime, riots, etc are some of the examples of such risks of urban life. The forces that generate conditions conducive to crime and riots are stronger in urban communities than in rural areas. Urban living is more anonymous living. It often releases the individual from community restraints more common in tradition-oriented societies. But more freedom from constraints and controls also provides greater freedom to deviate. And living in the more impersonalized, formally controlled urban society means that regulatory orders of conduct are often directed by distant bureaucrats. The police are strangers executing these prescriptions on an anonymous set of subjects. Minor offences in small town or village are often handled without resort to official police action. As disputable as such action may seem to be, it results in fewer recorded violations of the law compared to those in the big cities. Although perhaps causing some decision difficulties for the police in small town, formal and objective law enforcement is not always acceptable to the villagers. Urban area with mass population, greater wealth, more commercial establishments and more products of our technology also provide more frequent opportunities for theft. Victims are impersonalized, property is insured, consumer goods in more abundance are vividly displayed and are more portable. The crime rate increases despite formal moral education given in schools.
+
+Which of the following would be the best title for the above passage?
 
 Select one:
 
-a. 35 20
+a.  Lure of Village Life
 
-b. 35 35
+b. Rural-Urban Rift
 
-c. 20 35
+c. Crime and Punishment
 
-d. 20 20
+d. Hazards of Urban Life
 Feedback
-Your answer is correct.
-The correct answer is: 35 35
+Your answer is incorrect.
+The correct answer is: Hazards of Urban Life
 Question 2
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output for the following code, if the value of a is 4, n is 12, and r is 2?
-Input a, n, r
-sum = 0
-sum = (a * (1 - power(r, n + 1))) / (1 - r)
-Print(sum)
+India is a country of villages. Rural population still dominates the urban population as far as the number is considered. This is despite the fact that there is rampant migration of rural families to urban centres. Generally, the gains of being a unit of the urban population are less than the disadvantages and risks that are in-built in the urban life. Crime, riots, etc are some of the examples of such risks of urban life. The forces that generate conditions conducive to crime and riots are stronger in urban communities than in rural areas. Urban living is more anonymous living. It often releases the individual from community restraints more common in tradition-oriented societies. But more freedom from constraints and controls also provides greater freedom to deviate. And living in the more impersonalized, formally controlled urban society means that regulatory orders of conduct are often directed by distant bureaucrats. The police are strangers executing these prescriptions on an anonymous set of subjects. Minor offences in small town or village are often handled without resort to official police action. As disputable as such action may seem to be, it results in fewer recorded violations of the law compared to those in the big cities. Although perhaps causing some decision difficulties for the police in small town, formal and objective law enforcement is not always acceptable to the villagers. Urban area with mass population, greater wealth, more commercial establishments and more products of our technology also provide more frequent opportunities for theft. Victims are impersonalized, property is insured, consumer goods in more abundance are vividly displayed and are more portable. The crime rate increases despite formal moral education given in schools.
+
+Question : 1
+
+
+The passage mainly emphasises the
 
 Select one:
 
-a. 32764
+a. need for formal moral education to be given in schools
 
-b. 64
+b. reasons for growing crime rate in urban centres as compared to that in rural areas
 
-c. 16382
+c. comparative account of wealth in rural and urban areas
 
-d. 8
+d.  increasing crime rate in rural areas
 Feedback
 Your answer is correct.
-The correct answer is: 32764
+The correct answer is: reasons for growing crime rate in urban centres as compared to that in rural areas
 Question 3
-Correct
-Mark 1.00 out of 1.00
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output of the following code?
-z = 3 + 4 - 20 * 4 * 4 + 7
-print(z)
+India is a country of villages. Rural population still dominates the urban population as far as the number is considered. This is despite the fact that there is rampant migration of rural families to urban centres. Generally, the gains of being a unit of the urban population are less than the disadvantages and risks that are in-built in the urban life. Crime, riots, etc are some of the examples of such risks of urban life. The forces that generate conditions conducive to crime and riots are stronger in urban communities than in rural areas. Urban living is more anonymous living. It often releases the individual from community restraints more common in tradition-oriented societies. But more freedom from constraints and controls also provides greater freedom to deviate. And living in the more impersonalized, formally controlled urban society means that regulatory orders of conduct are often directed by distant bureaucrats. The police are strangers executing these prescriptions on an anonymous set of subjects. Minor offences in small town or village are often handled without resort to official police action. As disputable as such action may seem to be, it results in fewer recorded violations of the law compared to those in the big cities. Although perhaps causing some decision difficulties for the police in small town, formal and objective law enforcement is not always acceptable to the villagers. Urban area with mass population, greater wealth, more commercial establishments and more products of our technology also provide more frequent opportunities for theft. Victims are impersonalized, property is insured, consumer goods in more abundance are vividly displayed and are more portable. The crime rate increases despite formal moral education given in schools.
+
+Question : 3
+
+
+The author thinks that risks and disadvantages are
 
 Select one:
 
-a. 310
+a. more than the gains in urban life
 
-b. 306
+b. surpassed by the gains of urban life
 
-c. -306
+c. almost negligible in rural life
 
-d. -310
+d. outweigh the gains of rural life
 Feedback
-Your answer is correct.
-The correct answer is: -306
+Your answer is incorrect.
+The correct answer is: more than the gains in urban life
 Question 4
-Correct
-Mark 1.00 out of 1.00
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output  of this code?
-a = 1
-b = 2
-c = 3
-d = 4
-n = 1
-Repeat until(n <= 5):
-    c = a * c
-    d = a * d
-    print(c)
-    n = n + 1
+India is a country of villages. Rural population still dominates the urban population as far as the number is considered. This is despite the fact that there is rampant migration of rural families to urban centres. Generally, the gains of being a unit of the urban population are less than the disadvantages and risks that are in-built in the urban life. Crime, riots, etc are some of the examples of such risks of urban life. The forces that generate conditions conducive to crime and riots are stronger in urban communities than in rural areas. Urban living is more anonymous living. It often releases the individual from community restraints more common in tradition-oriented societies. But more freedom from constraints and controls also provides greater freedom to deviate. And living in the more impersonalized, formally controlled urban society means that regulatory orders of conduct are often directed by distant bureaucrats. The police are strangers executing these prescriptions on an anonymous set of subjects. Minor offences in small town or village are often handled without resort to official police action. As disputable as such action may seem to be, it results in fewer recorded violations of the law compared to those in the big cities. Although perhaps causing some decision difficulties for the police in small town, formal and objective law enforcement is not always acceptable to the villagers. Urban area with mass population, greater wealth, more commercial establishments and more products of our technology also provide more frequent opportunities for theft. Victims are impersonalized, property is insured, consumer goods in more abundance are vividly displayed and are more portable. The crime rate increases despite formal moral education given in schools.
+
+Question : 4
+
+Which of the following is a characteristic of an urban setting?
+
 
 Select one:
 
-a. 3 3 3 3
+a. Less forceful social control
 
-b. 4 4 4 4
+b. Unreported minor crimes
 
-c. 2 2 2 2
+c. Minimal opportunities of crime due to better law enforcement
 
-d. 1 1 1 1
+d.  Deviation from freedom
 Feedback
-Your answer is correct.
-The correct answer is: 3 3 3 3
+Your answer is incorrect.
+The correct answer is: Less forceful social control
 Question 5
-Correct
-Mark 1.00 out of 1.00
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output of the following code if the value of give and receive is 500 and 900, respectively?
-Input give, receive
-lost = receive - give
-perc = (lost / receive) * 100
-Print(perc)
+India is a country of villages. Rural population still dominates the urban population as far as the number is considered. This is despite the fact that there is rampant migration of rural families to urban centres. Generally, the gains of being a unit of the urban population are less than the disadvantages and risks that are in-built in the urban life. Crime, riots, etc are some of the examples of such risks of urban life. The forces that generate conditions conducive to crime and riots are stronger in urban communities than in rural areas. Urban living is more anonymous living. It often releases the individual from community restraints more common in tradition-oriented societies. But more freedom from constraints and controls also provides greater freedom to deviate. And living in the more impersonalized, formally controlled urban society means that regulatory orders of conduct are often directed by distant bureaucrats. The police are strangers executing these prescriptions on an anonymous set of subjects. Minor offences in small town or village are often handled without resort to official police action. As disputable as such action may seem to be, it results in fewer recorded violations of the law compared to those in the big cities. Although perhaps causing some decision difficulties for the police in small town, formal and objective law enforcement is not always acceptable to the villagers. Urban area with mass population, greater wealth, more commercial establishments and more products of our technology also provide more frequent opportunities for theft. Victims are impersonalized, property is insured, consumer goods in more abundance are vividly displayed and are more portable. The crime rate increases despite formal moral education given in schools.
+
+Question : 5
+
+Which of the following statements is TRUE in the context of the passage?
+
 
 Select one:
 
-a. 55.4
+a.  Urban crimes cannot be prevented.
 
-b. 55.55
+b. The display of consumer goods is the main cause of crime.
 
-c. 44.44
+c. Lack of personal contacts increases crimes in urban areas.
 
-d. 64.7
+d. Small communities have more minor crimes than in urban centres.
 Feedback
-Your answer is correct.
-The correct answer is: 44.44
+Your answer is incorrect.
+The correct answer is: Lack of personal contacts increases crimes in urban areas.
 Question 6
-Correct
-Mark 1.00 out of 1.00
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the output of this code?
-i = 1
-repeat until i+7<=8 {
-    i = i + 1
-}
-print(i+6)
+Find the synonym of the given word.
+
+DILATE
+
 
 Select one:
 
-a. 8
+a. spin
 
-b. 1
+b. push
 
-c. 9
+c.  widen
 
-d. 1 1 1 1 1 1 1
+d. weaken
 Feedback
-Your answer is correct.
-The correct answer is: 8
+Your answer is incorrect.
+The correct answer is: spin
 Question 7
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output for the following code?
-num = 1
-Repeat till(num <= 15) {
-    num = num + 1
-}
-Print(num)
+Find the synonym of the given word
+
+ABROGATE
+
+
+
 
 Select one:
 
-a. 16
+a. destroy
 
-b. 15
+b.  elope
 
-c. 1
+c. abolish
 
-d. 14
+d. gate-crash
 Feedback
 Your answer is correct.
-The correct answer is: 16
+The correct answer is: abolish
 Question 8
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output of the following code?
-n = 1
-x = 10
-y = 10
-z = 10
-sum = 0
-i = 0
-Repeat till(i <= n) {
-    sum = (x + y + z) * (x - y - z)
-    i = i + 1
-}
-print(sum)
+Find the antonym of the following word
+
+NOVEL
+
+
+
+
 
 Select one:
 
-a. 29
+a. novelist
 
-b. 31
+b. banal
 
-c. -300
+c. naughty
 
-d. 30
+d. nasty
 Feedback
 Your answer is correct.
-The correct answer is: -300
+The correct answer is: banal
 Question 9
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output of this code?
-a = 5
-b = 10
-n = 1
-Repeat until(n < 5):
-    c = a + b
-    a = b
-    b = c
-    print(c)
-    n = n + 1
+Find the antonym of the given word.
+
+HARMONIOUS
+
+
+
+
+
+
 
 Select one:
 
-a. 15 25 40 65
+a. concordant
 
-b. 15 20 25 30
+b. sonorous
 
-c. 15 30 60 120
+c. balanced
 
-d. 15 30 45 60
+d. discordant
 Feedback
 Your answer is correct.
-The correct answer is: 15 25 40 65
+The correct answer is: discordant
 Question 10
-Correct
-Mark 1.00 out of 1.00
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-Predict the output.
-a = 1
-b = 2
-c = 3
-d = 4
-e = 5
-f = 6
-n = 1
-repeat until(n <= 5) {
-    a = a + n
-    b = b + n
-    c = c + n
-    d = d + n
-    e = e + n
-    f = f + n
-    print(f)
-    n = n + 1
-}
+You must ensure the correctness of the information before________ to conclusion.
+
+
+
+
+
 
 Select one:
 
-a. 10 12 15 19 24
+a. leaning
 
-b. 8 10 13 17 22
+b.  jumping
 
-c. 7 9 12 16 21
+c. drawing
 
-d. 9 11 14 18 23
+d. enabling
 Feedback
-Your answer is correct.
-The correct answer is: 7 9 12 16 21
+Your answer is incorrect.
+The correct answer is:  jumping
 Question 11
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What is the output for the following code, if the value of the num is 25?
-x = 0
-Input n
-Repeat till(n != 1) {
-    if(n % 5 == 0) {
-        n /= 5;
-    }
-    else if(n % 3 == 0) {
-        n /= 3;
-    }
-    else if(n % 2 == 0) {
-        n /= 2;
-    }
-    else {
-        Print("Not an ugly number");
-        x = 1;
-        break;
-    }
-}
-if(x == 0) {
-    Print("Ugly number");
-}
+Fill in the blank with the suitable word from the given options.
+
+The flood water ____________ agricultural fields and entered houses in several parts of the state.
 
 Select one:
 
-a. Not an ugly number Ugly number
+a. Groove
 
-b. Ugly number
+b. Bargained
 
-c. Not an ugly number
+c. Restricts
 
-d. Ugly number Not an ugly number
+d. Inundated
 Feedback
 Your answer is correct.
-The correct answer is: Ugly number
+The correct answer is: Inundated
 Question 12
-Correct
-Mark 1.00 out of 1.00
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the output of the following algorithm?
-start
-declare a, i and b
-for i = 0 to 4
-    increment a by 1
-    if i=3 then
-        print hello
-        get out of the loop
-    end if
-end for
-print a
+The ______of our civilization from an agricultural society to today’s complex industrial world was accompanied by war
+
+ 
 
 Select one:
 
-a. hello
+a. route
 
-b. 1
+b. migration
 
-c. hello4
+c.  adjustment
 
-d. 4
+d. metamorphosis
 Feedback
-Your answer is correct.
-The correct answer is: hello4
+Your answer is incorrect.
+The correct answer is: metamorphosis
 Question 13
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the output of the following pseudocode?
-int p=4, q=7, r=10
-p=q mod r
-q=q+p
-r=r+q
-print p, q and r
+Fill in the blank with the suitable word from the given options.
+
+I always fall ________ old friends in times of need
+
+a) over
+
+b) through
+
+c) back on
+
+d) off
+
 
 Select one:
 
-a. 4 1 1 1 7
+a. through
 
-b. 7 1 4 2 1
+b. over
 
-c. 7 1 4 2 4
+c. off
 
-d. 7 1 1 1 7
+d.  back on
 Feedback
 Your answer is correct.
-The correct answer is: 7 1 4 2 4
+The correct answer is:  back on
 Question 14
 Correct
 Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the output if n = 126?
-for (i = 1 to n-1)
-    rem = n%i;
-    if(rem=0)
-        sum = sum + i;
-if(sum = n)
-    print "Yes"
-else
-    print "No"
+Find which part of the sentence has an error.
+
+They will (1)/ leave the office at six and (2)/ reach at home by seven. (3)/ No error (4)
 
 Select one:
 
-a. No output
+a. 4
 
-b. Yes
+b. 3
 
-c. Error
-
-d. No
-Feedback
-Your answer is correct.
-The correct answer is: No
-Question 15
-Correct
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following pseudocode?
-input : 5
-algorithm (integer num)
-set integer i = 2
-while i <= num/2
-    if num mod i = 0
-        print "unsuccessful" and exit;
-    i = i+1
-if (i == (num/2)+1)
-    print "successful"
-
-
-Select one:
-
-a. Successful
-
-b. It will not print anything
-
-c. Undefined behavior of the algorithm
-
-d. Unsuccessful
-Feedback
-Your answer is correct.
-The correct answer is: Successful
-Question 16
-Correct
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following Pseudocode?
-int a=9, b=7, c=8, d=4, e
-e = a + b + c + d / 4
-if (e > 5)
-    print "PASS"
-else
-    print "FAIL"
-
-Select one:
-
-a. FAIL
-
-b. 0
-
-c. PASS
+c. 2
 
 d. 1
 Feedback
 Your answer is correct.
-The correct answer is: PASS
-Question 17
-Correct
-Mark 1.00 out of 1.00
+The correct answer is: 3
+Question 15
+Incorrect
+Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the value of val if the input is 1, 2, 3, 9, 4 corresponding to n1 to n5?
-If(n1 < n2)
-    Set val to n2
-Else
-    Set val to n1
-If(n3 > val)
-    Set val to n3
-If(n4 > val)
-    Set val to n4
-If(n5 > val)
-    Set val to n5
+Find which part of the sentence has an error. 
+
+The new lecturer (1)/ seems to be very popular with (2)/ most of the class. (3)/ No error (4)
 
 Select one:
 
 a. 1
 
-b. 9
-
-c. 3
-
-d. 2
-Feedback
-Your answer is correct.
-The correct answer is: 9
-Question 18
-Incorrect
-Mark 0.00 out of 1.00
-Not flaggedFlag question
-Question text
-Create structure st with integer 'x' and object of st 'next'. What is the output of the below pseudo-code?
-main()
-Create structure object 'temp'
-Assign temp.x = 10
-Assign temp.next = temp
-Print temp.next.x
-
-Select one:
-
-a. Runtime Error
-
-b. 10
-
-c. Garbage value
-
-d. Compiler Error
-Feedback
-Your answer is incorrect.
-The correct answer is: Compiler Error
-Question 19
-Correct
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following pseudocode for a=12 and b=-26?
-start
-take 2 variables a and b
-check if a is less than 0 set a = -a
-check if b is less than 0 set b = -b
-repeat while a is not equal to b
-if a > b set a = a-b
-else set b = b - a
-print a
-Stop
-
-
-Select one:
-
-a. 6
-
-b. 12
-
-c. 2
-
-d. 4
-Feedback
-Your answer is correct.
-The correct answer is: 2
-Question 20
-Correct
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following pseudocode for given array a[5]=3,4,6,1,2 and pos is 2?[note: n=size of the array i.e. 5 and starting array index is 0]
-Declare i,j,n,pos
-repeat for j=pos to n-1
-set a[j] = a[j+1] [end of loop]
-n=n-1;
-display the new array
-end
-
-Select one:
-
-a. 3 6 1 2
-
-b. 3 4 2 1 2
-
-c. 3 4 1 2
-
-d. 3 2 4 6 1 2
-Feedback
-Your answer is correct.
-The correct answer is: 3 4 1 2
-Question 21
-Correct
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following pseudocode?
-input m=9,n=6
-m=m+1
-n=n-1
-m=m+n
-if(m>n)
-    print m
-else
-    print n
-
-Select one:
-
-a. 15
-
-b. 5
-
-c. 6
-
-d. 10
-Feedback
-Your answer is correct.
-The correct answer is: 15
-Question 22
-Correct
-Mark 1.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following pseudocode?
-input n = 1234
-integer q, r and rn
-set q = n and rn = 0
-while(q>0)
-    r = q mod 10
-    rn = rn + r ^ 3
-    q = q/10
-end while loop
-print rn
-
-Select one:
-
-a. 36
-
-b. 100
-
-c. 10
-
-d. 321
-Feedback
-Your answer is correct.
-The correct answer is: 100
-Question 23
-Incorrect
-Mark 0.00 out of 1.00
-Not flaggedFlag question
-Question text
-What will be the output of the following pseudocode for p=3, q=4?
-int fun1(int p, int p)
-    if(q EQUALS 0)
-        return 0
-    if(q mod 2 EQUALS 0)
-        return fun1( p+p, q/2)
-    return fun1(p+p, q/2)+p
-
-
-Select one:
-
-a. 7
-
-b. 8
+b. 3
 
 c. 4
 
-d. 12
+d. 2
 Feedback
 Your answer is incorrect.
-The correct answer is: 12
-Question 24
+The correct answer is: 4
+Question 16
 Incorrect
 Mark 0.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the output of the following pseudocode?
-For input a=8 & b=9.
-Function(input a, input b)
-    If(a<b)
-        return function(b,a)
-    elseif(b!=0)
-        return (a+fuction(a,b-1))
-    else
-        return 0
+Find which part of the sentence has an error.
+
+The museum’s revolving doors (1)/ stopped the crooks (2)/ as they jam half way round. (3)/ No error (4)
 
 Select one:
 
-a. 88
+a. 3
 
-b. 56
+b. 4
 
-c. 65
+c. 2
 
-d. 72
+d. 1
 Feedback
 Your answer is incorrect.
-The correct answer is: 72
-Question 25
-Incorrect
-Mark 0.00 out of 1.00
+The correct answer is: 3
+Question 17
+Correct
+Mark 1.00 out of 1.00
 Not flaggedFlag question
 Question text
-What will be the value of even_counter if number = 2630?
-Read number
-Function divisible(number)
-    even_counter = 0, num_remainder = number;
-    while(num_remainder)
-        digit = num_remainder%10;
-        if digit != 0 AND number % digit == 0
-            even_counter = even_counter+1
-        End If
-        num_remainder=num_remainder/10;
-End While
-return even_counter;
+Find which part of the sentence has an error.
+
+He had no (1)/ accuse for attacking (2)/ that old man. (3)/ No error (4)
 
 Select one:
 
@@ -668,9 +382,329 @@ a. 1
 
 b. 2
 
-c. 3
+c. 4
 
-d. 4
+d. 3
+Feedback
+Your answer is correct.
+The correct answer is: 2
+Question 18
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Convert the following sentence into direct speech.
+
+Mother told me that I should listen to her first and then do anything as I pleased.
+
+Select one:
+
+a. Mother said to me, “He should listen to her first and then do anything he pleases.”
+
+b. Mother said to me, “You should listen to me first and then do anything as you please.”
+
+c. Mother said to me, “You should listen to me first and then do anything as you please.”
+
+d. Mother said to me, “You should listen to me first and then do anything I pleased.”
 Feedback
 Your answer is incorrect.
-The correct answer is: 1
+The correct answer is: Mother said to me, “You should listen to me first and then do anything as you please.”
+Question 19
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Convert the following sentence into indirect speech.
+
+He said, “They will be using my car for the trip.”
+
+Select one:
+
+a. He said that they would be using his car for the trip.
+
+b. He said that they would be using my car for the trip.
+
+c. He said that they will be using my car for the trip.
+
+d. He said that we will be using his car for the trip.
+Feedback
+Your answer is correct.
+The correct answer is: He said that they would be using his car for the trip.
+Question 20
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Change the following sentence into passive voice.
+
+We waste much time on trifles.
+
+Select one:
+
+a. Much time is wasted on trifles.
+
+b. Much time was wasted on trifles.
+
+c. Much time will be wasted on trifles.'
+
+d. Much time is wasted by us on trifle’s.
+Feedback
+Your answer is correct.
+The correct answer is: Much time is wasted by us on trifle’s.
+Question 21
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Change the following sentence into passive voice.
+
+You don't need to wind this watch.
+
+Select one:
+
+a.  This watch need not be wounded.
+
+b. This watch need not be wound.
+
+c.
+This watch need not be winded up.
+Answer »Discuss »
+
+
+d. This watch does not wind.
+Feedback
+Your answer is incorrect.
+The correct answer is: This watch need not be wound.
+Question 22
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the phrases in the options  should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct select no improvement.
+
+Do you remember his phone number I don’t suspect so.
+
+Select one:
+
+a. don’t thing
+
+b. No improvement
+Answer »Discuss »
+
+
+c. may think
+
+d. don’t think
+Feedback
+Your answer is correct.
+The correct answer is: don’t think
+Question 23
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the phrases from the given should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct select the option "no improvement"
+
+In case if it rains, I shall not visit you.
+
+Select one:
+
+a. In case
+
+b. No improvement
+Answer »Discuss »
+
+
+c. If so
+
+d. In case of
+Feedback
+Your answer is incorrect.
+The correct answer is: In case
+Question 24
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Which of the phrases from the options should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct select "no improvement" as option.
+
+Hardly had he reached home when the telephone rang.
+
+Select one:
+
+a. he had reached
+
+b. he reached
+
+c. No improvement
+
+d. did he reach
+Feedback
+Your answer is correct.
+The correct answer is: No improvement
+Question 25
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Arrange the following parts of  the sentence to make  a meaningful sentence.
+
+Scientists have discovered (A)/ that may pave way for sustainable ways to clean up oil spills (B)/a unique oil-eating bacteria in the Mariana Trench, the (C)/deepest part of the earth’s oceans, a finding (D).
+
+Select one:
+
+a. BCDA
+
+b. ACDB
+
+c. CDBA
+
+d. ADCB
+Feedback
+Your answer is correct.
+The correct answer is: ACDB
+Question 26
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Arrange the following parts of the sentence to make a meaningful sentence.
+Andhra Pradesh on Monday morning (A)/ EMISAT, from Sriharikota in coastal (B)/ the Indian Space Research Organisation (ISRO) launched (C)/the country’s first electronic surveillance satellite 
+
+Select one:
+
+a. CDBA
+
+b. ACDB
+
+c. ADCB
+
+d. BCDA
+Feedback
+Your answer is correct.
+The correct answer is: CDBA
+Question 27
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+Find the word which maintains the same  relationship in second pair as in the first pair? 
+
+Moderate : Intensify : : Nominal : ?
+
+ 
+
+
+Select one:
+
+a. Expensive 
+
+b. Distance
+
+c. Chacs
+
+d. Memorial
+Feedback
+Your answer is correct.
+The correct answer is: Expensive 
+Question 28
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+say : utter :: difference : ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select one:
+
+a. similarity
+
+b. friendly
+
+c. speak
+
+d. contrast
+Feedback
+Your answer is correct.
+The correct answer is: contrast
+Question 29
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+The first and last sentences of a paragraph are given. Arrange the sentences P, Q, R, S in between first and sixth sentences in an order to get a meaningful paragraph. 
+
+1. Be kind to the environment
+
+P. First, because they are light weight and compact, a meal for five or six people weighs under a kilogram and takes up very little space in a backpack.
+
+Q. Second, hotdogs can be prepared over a small fast fire.
+
+R. Take a hot dog for lunch.
+
+S. The humble wiener makes a great back country meal for hikers.
+
+6. The small amount of firewood required can be gathered near the path without trampling large areas of the delicate forest floor.
+
+Select one:
+
+a. SRPQ
+
+b. QPSR
+
+c. PQSR
+
+d. RSPQ
+Feedback
+Your answer is incorrect.
+The correct answer is: SRPQ
+Question 30
+Incorrect
+Mark 0.00 out of 1.00
+Not flaggedFlag question
+Question text
+The first and last sentences of a paragraph are given. Arrange the sentences P, Q, R, S in between first and sixth sentences in an order to get a meaningful paragraph.
+
+1. Several sub-cities have been planned around capital.
+
+P. Dwarka is the first among them.
+
+Q. They are expected to alleviate the problem of housing.
+
+R. It is coming up in the south west of capital.
+
+S. It will cater to over one million people when completed.
+
+6. Hopefully the housing problem will not be as acute at present after these sub-cities are built.
+
+Select one:
+
+a. PQRS
+
+b. QRSP
+
+c. PRSQ
+
+d. QPRS
+Feedback
+Your answer is incorrect.
+The correct answer is: QPRS
